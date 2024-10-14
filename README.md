@@ -12,3 +12,10 @@
 # Links
 [Zuucci](https://pages.github.com/)
 💙⚽
+
+
+
+
+```markdown
+[CLI Commands](docs/cli.md)
+
